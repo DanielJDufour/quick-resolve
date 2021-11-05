@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "A Synchronous Promise.resolve. Preserve Sync/Async. Only Go Async If Necessary.",
   "main": "quick-resolve.js",
+  "files": [
+    "quick-resolve.js"
+  ],
   "scripts": {
     "test": "node test.js"
   },
